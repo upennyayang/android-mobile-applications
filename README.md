@@ -8,4 +8,6 @@ Built a Mobile **File Synchronizer** like Dropbox where users create, view, and 
 
 ## _App2: Coffee Cooler_
 Innovated a Sensor-based **Coffee Cooler** in which users shake phone to cool down coffee, see temperature curves timely, and share it to Facebook
+
+## _App3: Typing Game_
 Developed a **Typing Game** where users compete for typing speed. Sentences, user, and leaderboard are synchronized to database on SQL        
