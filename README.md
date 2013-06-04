@@ -11,8 +11,9 @@ Implemented a front-end Android user interface in Java and a backend C server, S
 
 ## _App2: Notebook Synchronizer_
 Developed An Android notebook synchronizer like Evernote where users users create, view, and modify, and synchronize your notes in terms of date, title, tag, and content.
+![typinggame](NotebookSynchronizer/snapshots/all2.jpg)
 
 ## _App3: Typing Game_
 Developed a **Typing Game** where users compete for typing speed. Sentences, user, and leaderboard are synchronized to SQLite database.
-
+![typinggame](TypingGame/snapshots/all.jpg)
 
