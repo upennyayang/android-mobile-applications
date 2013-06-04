@@ -4,7 +4,7 @@ android-mobile-applications
 An Evernote like file synchronizer, a full-fledged coffee-cooler, and a typing game.
 > Java, Android SDK, Arduino
 
-## _App1: File Synchronizer_
+## _App1: Notebook Synchronizer_
 Built a Mobile **File Synchronizer** like Dropbox where users create, view, and modify files on SQL Server based on date, titles, tags, and contents     
 
 ## _App2: Coffee Cooler_
