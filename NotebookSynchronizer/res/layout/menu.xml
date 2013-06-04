@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:weightSum="1">
+    
+	<TextView  
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:text="Please choose one of the following:"/>
+
+		<Button 
+		android:text="Create a File" 
+		android:id="@+id/createButton" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:onClick="onClickCreate"></Button>
+		
+		
+	   
+	   <TextView  
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:text="Please choose one of the files:"/>	    
+	
+	   <Spinner 
+        android:id="@+id/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+		
+	 <Button 
+		android:text="Show or Modify this File" 
+		android:id="@+id/modifyBotton" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:onClick="onClickModify"></Button>
+		
+		<Button 
+	    android:text="Quit" 
+	    android:id="@+id/buttonQuit" 
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+		android:onClick="onClickQuit"></Button>
+		<ListView android:id="@+id/listView1" android:layout_height="wrap_content" android:layout_width="match_parent"></ListView>
+    
+</LinearLayout>

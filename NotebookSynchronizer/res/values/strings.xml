@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"> CIS542 Lab#6 ---TypingGame2---Yayang Tian</string>
+    <string name="app_name">TypingGame</string>
+    <string name="sentence">The quick brown fox jumps over the lazy dog.</string>
+    <string name="right_msg">Congraduations, sir! You have typed the exact sentence!</string>
+    <string name="wrong_msg">Sorry, your have typed the wrong sentence!</string>
+    <string name="ready">Are you ready?</string>
+    <string name="YES">ready!</string>
+   
+</resources>

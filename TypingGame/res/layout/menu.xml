@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:weightSum="1">
+    
+	<TextView  
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:text="Please choose one of the following:"/>
+
+		<Button 
+		android:text="Play the Typing Game2!" 
+		android:id="@+id/buttonPlay" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:onClick="onClickPlay"></Button>
+	   
+	    <Button 
+	    android:text="Show Top Scores" 
+	    android:id="@+id/buttonShow" 
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+		android:onClick="onClickShow"></Button>
+		
+		<Button 
+	    android:text="Quit" 
+	    android:id="@+id/buttonQuit" 
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+		android:onClick="onClickQuit"></Button>
+    
+</LinearLayout>

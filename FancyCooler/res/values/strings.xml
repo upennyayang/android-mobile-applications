@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">50</string>
+    <string name="app_name">Fancy</string>
+    <string name="choose">Cooling Mode</string>
+    <string name="remove">Remove</string>
+    <string name="tune">Tune</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialogtitle">You Want...</string>
+    <string name="apply">Apply</string>
+
+</resources>
