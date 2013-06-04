@@ -15,5 +15,5 @@ Developed An Android notebook synchronizer like Evernote where users users creat
 
 ## _App3: Typing Game_
 Developed a **Typing Game** where users compete for typing speed. Sentences, user, and leaderboard are synchronized to SQLite database.
-![typinggame](TypingGame/snapshots/all2.jpg)
+![typinggame](TypingGame/snapshots/all3.jpg)
 
