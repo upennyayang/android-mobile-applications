@@ -4,7 +4,7 @@ android-mobile-applications
 An Evernote like notebook synchronizer, a full-fledged coffee-cooler, and a typing game. Implemented in Java.
 > Java, Android SDK, Arduino
 
-## _App1: Coffee Cooler_
+## _App1: Fancy Cooler_
 Innovated a Sensor-based **Coffee Cooler** in which users shake phone to cool down coffee, see temperature curves timely, and share it to Facebook
 Implemented a front-end Android user interface in Java and a backend C server, SQLite database, and Arduino circults with fans,temperature, proximity, and sound sensors.
 ![typinggame](FancyCooler/snapshots/jigsaw3.png)
