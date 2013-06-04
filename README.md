@@ -13,5 +13,5 @@ Implemented a front-end Android user interface in Java and a backend C server, S
 
 ## _App3: Typing Game_
 Developed a **Typing Game** where users compete for typing speed. Sentences, user, and leaderboard are synchronized to SQLite database.
-
+![typinggame](TypingGame/snapshots/all1.png)
 
